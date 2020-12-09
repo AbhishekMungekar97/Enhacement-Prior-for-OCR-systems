@@ -1,2 +1,3 @@
 # Enhacement-Prior-for-OCR-systems
-Textual image enhancement using Denoising Autoencoders and Adaptive Histogram Equalization
+## - In this repository we will perform Textual image enhancement using Denoising Autoencoders and Adaptive Histogram Equalization
+### - The following steps will be performed to obtain the final result :-
